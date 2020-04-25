@@ -1,6 +1,6 @@
 # Coreferencing
 
-This is the codebase for the Computational Linguistics - 1: Course Project and is maintained by Prajneya Kumar and Jayant Panwar. Our primary aim in this project is to analyse the notion of Corelation relations in spoken languagesversus written text and we intend to do so by analysing transcripts of certain video lectures andsome online news articles, which will be our general domain for written text. 
+This is the codebase for the Computational Linguistics - 1: Course Project and is maintained by Prajneya Kumar and Jayant Panwar. Our primary aim in this project is to analyse the notion of Corelation relations in spoken languages versus written text and we intend to do so by analysing transcripts of certain video lectures andsome online news articles, which will be our general domain for written text. 
 
 ## Usage
 
