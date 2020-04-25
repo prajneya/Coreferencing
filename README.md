@@ -14,7 +14,9 @@ To run the code, certain dependencies need to be installed, which are listed bel
 **news_pos.py** annotates POS tags for the written text domain, which is General NEWS for our case. <br> <br>
 **tag.py** annotates Penn TreeBank tags and calculates pronoun distribution in the spoken genre. <br>
 **news_tags.py** annotates Penn TreeBank tags and calculates pronoun distribution in the written genre. <br> <br>
-**coref.py** runs a coreferencing model on our data, make sure to put the Stanford's CoreNLP Suite in this subdirectly before running, which can be downloaded from [here](https://stanfordnlp.github.io/CoreNLP/).
+**coref.py** runs a coreferencing model on our data, make sure to put the Stanford's CoreNLP Suite in this subdirectly before running, which can be downloaded from [here](https://stanfordnlp.github.io/CoreNLP/). <br> <br>
+
+Outputs of each of the domains are sotred in their respective folders.
 
 ## Manual CoreNLP Server
 
